@@ -3,6 +3,7 @@ source $VIMRUNTIME/defaults.vim
 
 colorscheme smyck
 
+set autochdir
 set autoindent
 set mouse-=a	" disable all species of mice intervening
 
