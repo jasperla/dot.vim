@@ -1,5 +1,6 @@
 " Load defaults first and override them if applicable
 source $VIMRUNTIME/defaults.vim
+source ~/.vim/langs.vim
 
 colorscheme smyck
 
