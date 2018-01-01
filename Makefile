@@ -6,5 +6,6 @@ install:
 
 update:
 	git submodule update --remote --merge
-	git commit .gitmodules pack
 
+sync: update
+	git commit .gitmodules pack
