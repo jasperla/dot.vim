@@ -16,3 +16,6 @@
 [submodule "pack/jasperla/opt/tagbar"]
 	path = pack/jasperla/opt/tagbar
 	url = https://github.com/majutsushi/tagbar
+[submodule "pack/jasperla/start/salt-vim"]
+	path = pack/jasperla/start/salt-vim
+	url = https://github.com/saltstack/salt-vim
