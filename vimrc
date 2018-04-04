@@ -14,3 +14,4 @@ if has('syntax') && has('eval')
 endif
 
 let g:airline_theme='minimalist'
+let g:netrw_silent = 1
