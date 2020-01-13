@@ -2,7 +2,7 @@
 source $VIMRUNTIME/defaults.vim
 source ~/.vim/langs.vim
 
-colorscheme smyck
+colorscheme plain-cterm
 
 set autochdir
 set autoindent
