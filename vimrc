@@ -31,3 +31,8 @@ let g:airline#extensions#tabline#tabs_label = ''
 let g:airline#extensions#tabline#show_splits = 0
 let g:airline#extensions#tabline#show_close_button = 0
 let g:airline#extensions#tabline#show_tab_nr = 0
+
+" Easy navigation of new tabs: https://vim.fandom.com/wiki/Using_tab_pages
+nnoremap <C-t> :tabnew<CR>:e ./
+nnoremap H :tabprevious<CR>
+nnoremap L :tabnext<CR>
