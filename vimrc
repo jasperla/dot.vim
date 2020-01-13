@@ -7,6 +7,7 @@ colorscheme plain-cterm
 set autochdir
 set autoindent
 set mouse-=a	" disable all species of mice intervening
+set ttymouse=
 
 set nofoldenable " disable all folding
 
