@@ -19,3 +19,6 @@
 [submodule "pack/jasperla/start/salt-vim"]
 	path = pack/jasperla/start/salt-vim
 	url = https://github.com/saltstack/salt-vim
+[submodule "pack/jasperla/start/vim-colors-plain"]
+	path = pack/jasperla/start/vim-colors-plain
+	url = git@github.com:jasperla/vim-colors-plain.git
