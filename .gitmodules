@@ -22,3 +22,6 @@
 [submodule "pack/jasperla/start/vim-colors-plain"]
 	path = pack/jasperla/start/vim-colors-plain
 	url = git@github.com:jasperla/vim-colors-plain.git
+[submodule "pack/jasperla/start/plugin/auto-pairs"]
+	path = pack/jasperla/start/plugin/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs
