@@ -7,9 +7,6 @@
 [submodule "pack/jasperla/start/editorconfig-vim"]
 	path = pack/jasperla/start/editorconfig-vim
 	url = https://github.com/editorconfig/editorconfig-vim
-[submodule "pack/jasperla/start/base16-vim"]
-	path = pack/jasperla/start/base16-vim
-	url = https://github.com/chriskempson/base16-vim
 [submodule "pack/jasperla/start/vim-surround"]
 	path = pack/jasperla/start/vim-surround
 	url = https://github.com/tpope/vim-surround
@@ -22,9 +19,6 @@
 [submodule "pack/jasperla/start/vim-colors-plain"]
 	path = pack/jasperla/start/vim-colors-plain
 	url = git@github.com:jasperla/vim-colors-plain.git
-[submodule "pack/jasperla/start/plugin/auto-pairs"]
-	path = pack/jasperla/start/plugin/auto-pairs
-	url = https://github.com/jiangmiao/auto-pairs
 [submodule "pack/jasperla/start/auto-pairs"]
 	path = pack/jasperla/start/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs
