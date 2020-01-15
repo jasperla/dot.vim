@@ -25,3 +25,6 @@
 [submodule "pack/jasperla/start/plugin/auto-pairs"]
 	path = pack/jasperla/start/plugin/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs
+[submodule "pack/jasperla/start/auto-pairs"]
+	path = pack/jasperla/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs

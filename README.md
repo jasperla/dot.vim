@@ -1,8 +1,8 @@
 # dot vim
 
 ## Adding new plugins
-	
-	git submodule add $URL pack/jasperla/{opt,start}/plugin
+
+	git submodule add $URL pack/jasperla/{opt,start}/$PLUGIN
 	git commit .gitmodules path/to/plugin
 
 ## Updating packages
@@ -11,4 +11,4 @@
 
 ## Removing a package
 
-	git submodule deinit path/to/plugin
+	git submodule deinit path/to/$PLUGIN
