@@ -18,7 +18,7 @@
 	url = https://github.com/saltstack/salt-vim
 [submodule "pack/jasperla/start/vim-colors-plain"]
 	path = pack/jasperla/start/vim-colors-plain
-	url = git@github.com:jasperla/vim-colors-plain.git
+	url = https://github.com/jasperla/vim-colors-plain
 [submodule "pack/jasperla/start/auto-pairs"]
 	path = pack/jasperla/start/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs
