@@ -37,6 +37,7 @@ nnoremap <C-t> :tabnew<CR>:e ./
 nnoremap H :tabprevious<CR>
 nnoremap L :tabnext<CR>
 
+<<<<<<< HEAD
 " vimwiki configuration
 "
 " load index with: `vim -c VimwikiIndex`
@@ -83,3 +84,6 @@ nnoremap <leader>zn :ZettelNew<cr><cr>:w<cr>ggA
 nnoremap <leader>bl :VimwikiBacklinks<cr>
 " Open Wiki index in new tab
 nnoremap <leader>ti :VimwikiTabIndex<cr>
+" With Ctrl-t remapped above we need pop at a convenient location. Use
+" Ctrl-[ to match Ctrl-] for jumping to a tags definition.
+nnoremap <C-[> :pop<CR>
