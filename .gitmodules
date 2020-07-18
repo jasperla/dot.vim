@@ -22,3 +22,12 @@
 [submodule "pack/jasperla/start/auto-pairs"]
 	path = pack/jasperla/start/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs
+[submodule "pack/jasperla/opt/fzf.vim"]
+	path = pack/jasperla/opt/fzf.vim
+	url = https://github.com/junegunn/fzf.vim
+[submodule "pack/jasperla/opt/vimwiki"]
+	path = pack/jasperla/opt/vimwiki
+	url = https://github.com/vimwiki/vimwiki.git
+[submodule "pack/jasperla/opt/vim-zettel"]
+	path = pack/jasperla/opt/vim-zettel
+	url = https://github.com/michal-h21/vim-zettel
