@@ -31,3 +31,6 @@
 [submodule "pack/jasperla/opt/vim-zettel"]
 	path = pack/jasperla/opt/vim-zettel
 	url = https://github.com/michal-h21/vim-zettel
+[submodule "pack/jasperla/start/nim"]
+	path = pack/jasperla/start/nim
+	url = https://github.com/zah/nim.vim
