@@ -86,4 +86,8 @@ nnoremap <leader>bl :VimwikiBacklinks<cr>
 nnoremap <leader>ti :VimwikiTabIndex<cr>
 " With Ctrl-t remapped above we need pop at a convenient location. Use
 " Ctrl-[ to match Ctrl-] for jumping to a tags definition.
-nnoremap <C-[> :pop<CR>
+nnoremap ] :pop<CR>
+
+
+highlight ExtraWhitespace ctermbg=red guibg=red
+match ExtraWhitespace /\s\+$/
